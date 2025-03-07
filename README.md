@@ -2,7 +2,7 @@
 This is a simple React + Express.js application that takes a user's name as input and returns a personalized greeting message. It is built with React (frontend) and Express.js (backend), and deployed using Render (backend) and Netlify (frontend).
 
 🖥️ Live Demo
-🔗[ Visit the Live App ](https://loginpage01x.netlify.app/).
+🔗[ Visit the Live App ](https://assignment-younglabs.netlify.app/).
 
 # 📌 Features
 ✅ User enters their name in an input field. <br/>
